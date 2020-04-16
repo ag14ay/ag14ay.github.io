@@ -1,0 +1,21 @@
+h1 {
+	width: 0;
+	margin-bottom: 0;
+	font-size: 36px;
+}
+
+h2 {
+	width:0;
+	font-size: 32px;
+	border-bottom-color: grey;
+}
+
+#header{
+	margin-bottom: 32px;
+	text-align: center;
+}		
+
+#footer{
+	margin-top: 64px;
+	text-align: center; 
+}
